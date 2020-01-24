@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-shadowborn",
+  "version": "1.0.0",
+  "description": "Shadowborn react template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowborn/cra-template-shadowborn.git"
+  },
+  "author": "Shadowborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadowborn/cra-template-shadowborn/issues"
+  },
+  "homepage": "https://github.com/Shadowborn/cra-template-shadowborn#readme"
+}
