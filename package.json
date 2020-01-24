@@ -1,6 +1,6 @@
 {
   "name": "cra-template-shadowborn",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Shadowborn react template",
   "main": "template.json",
   "scripts": {
